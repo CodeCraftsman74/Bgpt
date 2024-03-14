@@ -1,5 +1,5 @@
 # Bgpt
-The out of a simple model which helps in generating or answer your queries based on the data from a website
+The out of a the model is to help in generating or answer your queries based on the data from a website
 This is a minor project made for DSAI Hackathon
 The answers that the model would give are based on information IIT bhilai
 To run copy the code to jupiter notebook or colab 
